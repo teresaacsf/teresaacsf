@@ -2,9 +2,8 @@
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=7CB9E8&center=true&vCenter=true&width=435&lines=Hey..+I'm+Teresa;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
-    <p>
-        <img src="https://your-gif-url.gif" alt="Descriptive Text for the GIF" />
-    </p>
+    <p><img src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Coding Kira GIF" /></p>
+    
 </div>
 
 <div align="center">
