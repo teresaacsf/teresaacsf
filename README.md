@@ -18,7 +18,7 @@
 
 <div align="center">
     <h2>🚀 Github Commits</h2>
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/teresaacsf/teresaacsf/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
