@@ -13,10 +13,10 @@
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<a href="https://www.linkedin.com/in/[YourLinkedIn]/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+    <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+    <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
 </div>
 
 <div align="center">
@@ -51,8 +51,21 @@
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading">💻 Github Stats</h2>
-<table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHub]&theme=merko" alt="[Your Name]'s Contribution Streak"/></td
+    <h2 align="center" class="section-heading">💻 Github Stats</h2>
+    <table align="center" width="100%" height="100%">
+        <tr>
+            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/></td>
+            <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHub]&theme=merko" alt="[Your Name]'s Contribution Streak"/></td>
+        </tr>
+    </table>
+</div>
+
+<div align="center">
+    <h2 align="center" class="section-heading">📊 Weekly Development Breakdown</h2>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=[YourGitHub]&layout=compact&theme=tokyonight" alt="Weekly Development Breakdown"/>
+</div>
+
+<div align="center">
+    <h2 align="center" class="section-heading">🎨 GitHub Profile Trophy</h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=[YourGitHub]&theme=onedark" alt="GitHub Profile Trophy"/>
+</div>
