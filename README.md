@@ -1,14 +1,12 @@
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=7CB9E8&center=true&vCenter=true&width=435&lines=Hey..+I'm+Teresa;This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-    <p><img src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Coding Kira GIF" /></p>
-    
+    </h1>    
 </div>
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
+    <p>I'm a Software Developer at Awentia, where I am developing a C++-based data collection system on Raspberry Pi (Raspbian OS), integrating camera, IMU, and GPS technologies for Computer Vision purposes. I recently graduated with a Master's degree in Electrical and Computer Engineering at IST, University of Lisbon. My major was in Control, Robotics, and Artificial Intelligence. My minor was in Design Thinking.</p>
 </div>
 
 <div align="center">
